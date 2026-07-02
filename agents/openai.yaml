@@ -1,0 +1,6 @@
+interface:
+  display_name: "Vibe Coding PRD"
+  short_description: "Create coding-ready PRDs from rough inputs."
+  default_prompt: "Use $vibe-coding-prd to write a concise coding-ready PRD from my requirements."
+policy:
+  allow_implicit_invocation: true
